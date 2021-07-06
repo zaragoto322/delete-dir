@@ -1,0 +1,18 @@
+{
+  "name": "delete-dir",
+  "version": "1.0.0",
+  "description": "delete  directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["delete",  "directory"],
+  "author": "zaragoto",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "path": "^0.12.7",
+    "schema-utils": "^3.1.0",
+    "webpack": "^5.42.1"
+  }
+}
